@@ -53,12 +53,8 @@ body {
 
 .chatbot-popup {
   background: linear-gradient(#cdefff, #cbbeed);
-  bottom: 90px;
-  
   opacity: 0;
   pointer-events: none;
-  right: 35px;
-  position: fixed;
   transform: scale(0.2);
   transform-origin: bottom right;
   overflow: hidden;
